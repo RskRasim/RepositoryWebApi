@@ -1,0 +1,15 @@
+C:\Users\ASUS\Desktop\StokYonetimi-mvc(.net)RasimSenyuz\WebApi\WebApiBll\bin\Debug\WebApiBll.dll
+C:\Users\ASUS\Desktop\StokYonetimi-mvc(.net)RasimSenyuz\WebApi\WebApiBll\bin\Debug\WebApiBll.pdb
+C:\Users\ASUS\Desktop\StokYonetimi-mvc(.net)RasimSenyuz\WebApi\WebApiBll\bin\Debug\WebApiData.dll
+C:\Users\ASUS\Desktop\StokYonetimi-mvc(.net)RasimSenyuz\WebApi\WebApiBll\bin\Debug\EntityFramework.dll
+C:\Users\ASUS\Desktop\StokYonetimi-mvc(.net)RasimSenyuz\WebApi\WebApiBll\bin\Debug\WebApiData.pdb
+C:\Users\ASUS\Desktop\StokYonetimi-mvc(.net)RasimSenyuz\WebApi\WebApiBll\bin\Debug\WebApiData.dll.config
+C:\Users\ASUS\Desktop\StokYonetimi-mvc(.net)RasimSenyuz\WebApi\WebApiBll\bin\Debug\EntityFramework.xml
+C:\Users\ASUS\Desktop\StokYonetimi-mvc(.net)RasimSenyuz\WebApi\WebApiBll\obj\Debug\WebApiBll.csprojAssemblyReference.cache
+C:\Users\ASUS\Desktop\StokYonetimi-mvc(.net)RasimSenyuz\WebApi\WebApiBll\obj\Debug\WebApiBll.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\StokYonetimi-mvc(.net)RasimSenyuz\WebApi\WebApiBll\obj\Debug\WebApiBll.csproj.CopyComplete
+C:\Users\ASUS\Desktop\StokYonetimi-mvc(.net)RasimSenyuz\WebApi\WebApiBll\obj\Debug\WebApiBll.dll
+C:\Users\ASUS\Desktop\StokYonetimi-mvc(.net)RasimSenyuz\WebApi\WebApiBll\obj\Debug\WebApiBll.pdb
+C:\Users\ASUS\Desktop\StokYonetimi-mvc(.net)RasimSenyuz\WebApi\WebApiBll\bin\Debug\WebApiBll.dll.config
+C:\Users\ASUS\Desktop\StokYonetimi-mvc(.net)RasimSenyuz\WebApi\WebApiBll\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\ASUS\Desktop\StokYonetimi-mvc(.net)RasimSenyuz\WebApi\WebApiBll\bin\Debug\EntityFramework.SqlServer.xml
